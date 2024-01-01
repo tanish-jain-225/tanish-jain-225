@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Git Profile</title>
-</head>
-
 <h1 align="center">Hi 👋, I'm Tanish Jain</h1>
 <h3 align="center">A passionate Student exploring various domains of Programming from India</h3>
 
@@ -57,6 +48,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanish-jain-225&"
         alt="tanish-jain-225" /></p>
-
-
-</html>
