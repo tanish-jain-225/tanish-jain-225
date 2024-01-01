@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a style="text-decoration: none;" href="https://instagram.com/tanish_jain_225" target="_blank"><img align="center"
-            src="https://cdn-icons-png.flaticon.com/128/3670/3670125.png" alt="tanish_jain_225" height="30"
+            src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="tanish_jain_225" height="40"
             width="40" /></a>
 </p>
 
