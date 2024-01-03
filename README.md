@@ -38,10 +38,6 @@
             src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="python" width="40" height="40" /> </a>
 </p>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=tanish-jain-225&show_icons=true&locale=en&layout=compact"
-        alt="tanish-jain-225" /></p>
-
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=tanish-jain-225&show_icons=true&locale=en"
         alt="tanish-jain-225" /></p>
