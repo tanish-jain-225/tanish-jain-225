@@ -47,6 +47,3 @@
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=tanish-jain-225&show_icons=true&locale=en"
         alt="tanish-jain-225" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanish-jain-225&"
-        alt="tanish-jain-225" /></p>
