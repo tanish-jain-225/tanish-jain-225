@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tanishjain020205@gmail.com**
 
-- ⚡ Fun fact **I am not interesting. Instead an extraordinarily boring person**
+- ⚡ Fun fact ** An ambivert type of person in any situation **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
