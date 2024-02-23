@@ -47,3 +47,6 @@
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=tanish-jain-225&show_icons=true&locale=en"
         alt="tanish-jain-225" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
