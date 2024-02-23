@@ -44,9 +44,9 @@
     </a>
 </p>
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=tanish-jain-225&show_icons=true&locale=en"
-        alt="tanish-jain-225" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tanish-jain-225&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tanish-jain-225&theme=gruvbox&hide_border=false)<br>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
