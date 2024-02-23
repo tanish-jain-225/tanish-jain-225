@@ -12,7 +12,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a style="text-decoration: none;" href="https://instagram.com/tanish_jain_225" target="_blank">
-        <img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="tanish_jain_225" height="40" width="40" />
+        <img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="Instagram_tanish_jain_225" height="40" width="40" />
+    </a>
+    <a style="text-decoration: none;" href="www.linkedin.com/in/tanish-jain-tj02022005" target="_blank">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="LinkedIn_tanish_jain" height="40" width="40" />
     </a>
 </p>
 
