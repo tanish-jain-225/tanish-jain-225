@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanish Jain</h1>
-<h3 align="center">A passionate Student exploring various domains of Programming from India</h3>
+<h3 align="center">A passionate Student exploring various domains of Programming</h3>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=tanish-jain-225&label=Profile%20views&color=0e75b6&style=flat" alt="tanish-jain-225" /> 
