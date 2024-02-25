@@ -1,22 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tanish Jain</h1>
 <h3 align="center">A passionate Student exploring various domains of Programming</h3>
 
+<hr>
+
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=tanish-jain-225&label=Profile%20views&color=0e75b6&style=flat" alt="tanish-jain-225" /> 
-</p>
-
-- 📫 How to reach me **tanishjain020205@gmail.com**
-
-- ⚡ Fun fact ** An ambivert type of person in any situation **
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a style="text-decoration: none;" href="https://instagram.com/tanish_jain_225" target="_blank">
-        <img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="Instagram_tanish_jain_225" height="40" width="40" />
-    </a>
-    <a style="text-decoration: none;" href="https://www.linkedin.com/in/tanish-jain-tj02022005" target="_blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="LinkedIn_tanish_jain" height="40" width="40" />
-    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,9 +35,30 @@
     </a>
 </p>
 
+<hr>
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tanish-jain-225&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br>
+![](https://github-readme-stats.vercel.app/api?username=tanish-jain-225&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tanish-jain-225&theme=gruvbox&hide_border=false)<br>
+
+<hr>
+
+- ⚡ Fun fact ** An ambivert type of person in any situation **
+
+- 📫 How to reach me **tanishjain020205@gmail.com**
+
+<hr>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a style="text-decoration: none;" href="https://instagram.com/tanish_jain_225" target="_blank">
+        <img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="Instagram_tanish_jain_225" height="40" width="40" />
+    </a>
+    <a style="text-decoration: none;" href="https://www.linkedin.com/in/tanish-jain-tj02022005" target="_blank">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="LinkedIn_tanish_jain" height="40" width="40" />
+    </a>
+</p>
+
+<hr>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
