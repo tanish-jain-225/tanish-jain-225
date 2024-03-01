@@ -1,11 +1,10 @@
-<h1 align="center">👨‍💻 Welcome to Tanish Jain's Code Haven! 👨‍💻</h1>
-<h3 align="center">Passionate Student | Exploring the Wonders of Programming | Future Innovator</h3>
-
-<hr>
-
+<h1 align="center">👨‍💻 Welcome to my Code Haven! 👨‍💻</h1>
+<h3 align="center">Passionate Engineer | Exploring the Wonders of Programming | Enthusiastic Learner</h3>
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=tanish-jain-225&label=Profile%20views&color=0e75b6&style=flat-square" alt="tanish-jain-225" /> 
 </p>
+
+<hr>
 
 <h3 align="center">**** Languages and Tools ****</h3>
 <p align="center"> 
@@ -31,7 +30,7 @@
 <hr>
 
 <h3 align="center">⚡ Fun Fact ⚡</h3>
-<p align="center">I'm an ambivert - equally at home in the buzz of social gatherings and the quiet depths of coding challenges!</p>
+<p align="center">"I am an ambivert who thrives in social gatherings as much as in coding. With a knack for listening and connecting with others, I enjoy in collaborative environments and simultaneously find solace and focus in the depths of coding. I also enjoy unraveling problems and crafting elegant solutions through programming. Whether engaging in discussions or diving into code, I bring adaptability and a passion for problem-solving to every project."</p>
 
 <h3 align="center">📫 Let's Connect 📫</h3>
 <p align="center">
