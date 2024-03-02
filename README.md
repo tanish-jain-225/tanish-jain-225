@@ -30,7 +30,7 @@
 <hr>
 
 <h3 align="center">⚡ Fun Fact ⚡</h3>
-<p align="center">"I am an ambivert who thrives in social gatherings as much as in coding. With a knack for listening and connecting with others, I enjoy in collaborative environments and simultaneously find solace and focus in the depths of coding. I also enjoy unraveling problems and crafting elegant solutions through programming. Whether engaging in discussions or diving into code, I bring adaptability and a passion for problem-solving to every project."</p>
+<p align="center">"I am an ambivert and a good listener who thrives in social gatherings as much as in coding. With a knack for listening and connecting with others, I enjoy in collaborative environments and simultaneously find solace and focus in the depths of coding. I also enjoy unraveling problems and crafting elegant solutions through programming. Whether engaging in discussions or diving into code, I bring adaptability and a passion for problem-solving to every project."</p>
 
 <h3 align="center">📫 Let's Connect 📫</h3>
 <p align="center">
