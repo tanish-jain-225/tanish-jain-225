@@ -20,7 +20,7 @@
 
 <hr>
 
-<h2 align="center">📊 GitHub Stats 📊 </h2>
+<h2 align="center">📊 GitHub Statistics 📊 </h2>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=tanish-jain-225&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
