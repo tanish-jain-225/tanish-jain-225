@@ -1,7 +1,7 @@
 <h1 align="center">💻 Welcome To My Code Haven 💻</h1>
 <h3 align="center">Passionate Engineer | Exploring the Wonders of Programming | Enthusiastic Learner</h3>
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=tanish-jain-225&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile_Views" /> 
+    <img src="https://komarev.com/ghpvc/?username=tanish-jain-225&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile_Views_Counter" /> 
 </p>
 
 <hr>
