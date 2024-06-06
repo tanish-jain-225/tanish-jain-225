@@ -6,7 +6,7 @@
 
 <hr>
 
-<h3 align="center">**** Languages and Tools ****</h3>
+<h3 align="center">**** Tech Stack ****</h3>
 <p align="center"> 
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="bootstrap" width="40" height="40" />
     <img src="https://cdn-icons-png.flaticon.com/128/3665/3665923.png" alt="c" width="40" height="40" /> 
@@ -22,7 +22,7 @@
 
 <h2 align="center">📊 GitHub Statistics 📊 </h2>
 
-<p align="center">
+<p align="center" style="width: 100%; display: block; margin: auto;">
     <img src="https://github-readme-stats.vercel.app/api?username=tanish-jain-225&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanish-jain-225&theme=gruvbox&hide_border=false" alt="GitHub_Streak" />
 </p>
