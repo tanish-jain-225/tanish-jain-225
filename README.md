@@ -22,7 +22,7 @@
 
 <h2 align="center">📊 GitHub Statistics 📊 </h2>
 
-<p align="center" style="width: 100%; display: block; margin: auto;">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=tanish-jain-225&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanish-jain-225&theme=gruvbox&hide_border=false" alt="GitHub_Streak" />
 </p>
