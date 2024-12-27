@@ -6,7 +6,14 @@
 
 <hr>
 
-<h3 align="center">**** Tech Stack ****</h3>
+## 👋 About Me
+
+Hello! I'm Tanish Jain, a passionate engineer who loves exploring the world of programming and continuously learning new things. I thrive in both collaborative environments and solo projects, always aiming to deliver quality work.
+
+<hr>
+
+## 🛠️ Tech Stack
+
 <p align="center"> 
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="bootstrap" width="40" height="40" />
     <img src="https://cdn-icons-png.flaticon.com/128/3665/3665923.png" alt="c" width="40" height="40" /> 
@@ -20,7 +27,7 @@
 
 <hr>
 
-<h2 align="center">📊 GitHub Statistics 📊 </h2>
+## 📊 GitHub Statistics
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=tanish-jain-225&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
@@ -29,10 +36,14 @@
 
 <hr>
 
-<h3 align="center">⚡ Fun Fact ⚡</h3>
-<p align="center">"I am an ambivert and a good listener who thrives in social gatherings as much as in coding. With a knack for listening and connecting with others, I enjoy in collaborative environments and simultaneously find solace and focus in the depths of coding. I also enjoy unraveling problems and crafting elegant solutions through programming. Whether engaging in discussions or diving into code, I bring adaptability and a passion for problem-solving to every project."</p>
+## ⚡ Fun Fact
 
-<h3 align="center">📫 Let's Connect 📫</h3>
+"I am an ambivert and a good listener who thrives in social gatherings as much as in coding. With a knack for listening and connecting with others, I enjoy collaborative environments."
+
+<hr>
+
+## 📫 Let's Connect
+
 <p align="center">
     <a href="https://instagram.com/tanish_jain_225" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="Instagram" height="40" width="40" />
@@ -44,7 +55,8 @@
 
 <hr>
 
-<h3 align="center">✍️ Random Dev Quote ✍️</h3>
+## ✍️ Random Dev Quote
+
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random_Dev_Quote" />
 </p>
