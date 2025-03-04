@@ -36,6 +36,14 @@ Hello! I'm Tanish Jain, a passionate engineer who loves exploring the world of p
 
 <hr>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=tanish-jain-225&theme=gruvbox&no-frame=false&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+<hr>
+
 ## ⚡ Fun Fact
 
 "I am an ambivert and a good listener who thrives in social gatherings as much as in coding. With a knack for listening and connecting with others, I enjoy collaborative environments."
