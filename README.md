@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-Hello! I'm **Tanish Jain**, a passionate **full-stack web developer** and engineering student who loves building functional and user-friendly web applications. Whether it's crafting responsive frontends or designing robust backend logic, I enjoy every step of the development process.
+Hello! I'm **Tanish**, a passionate **full-stack web developer** and engineering student who loves building functional and user-friendly web applications. Whether it's crafting responsive frontends or designing robust backend logic, I enjoy every step of the development process.
 
 I thrive in collaborative environments, enjoy debugging as much as building, and constantly seek out new technologies to learn and experiment with.
 
