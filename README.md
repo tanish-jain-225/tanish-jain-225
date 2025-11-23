@@ -18,18 +18,19 @@ I thrive in collaborative environments, enjoy debugging as much as building, and
 ## 🧰 Tech Stack
 
 <p align="center"> 
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="Bootstrap" width="40" height="40" />
-    <img src="https://cdn-icons-png.flaticon.com/128/3665/3665923.png" alt="C" width="40" height="40" /> 
-    <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" alt="C++" width="40" height="40" /> 
-    <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="CSS3" width="40" height="40" /> 
-    <img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="HTML5" width="40" height="40" /> 
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" width="40" height="40" /> 
-    <img src="https://t3.ftcdn.net/jpg/03/52/67/82/240_F_352678266_NFcwIwhhY76mkQItT4lCxyxcCTP3LgvY.jpg" alt="Node.js" width="40" height="40" /> 
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" width="40" height="40" />
-    <img src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" alt="React" width="40" height="40" />
-    <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" alt="MongoDB" width="40" height="40" />
-    <img src="https://cdn-icons-png.flaticon.com/128/5969/5969059.png" alt="Express.js" width="40" height="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="Bootstrap" width="40" height="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png" alt="C" width="40" height="40" /> 
+    <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="40" height="40" /> 
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" width="40" height="40" /> 
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="HTML5" width="40" height="40" /> 
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="40" height="40" /> 
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node.js" width="40" height="40" /> 
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="40" height="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="React" width="40" height="40" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjcViF9RI0J1AVKQ0ci5-zOLoghj4hm4XEXw&s" alt="MongoDB" width="40" height="40" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE3cgAgoQ3fXWqK97d2h_iqkXPvTcT3u5uYg&s" alt="Express.js" width="40" height="40" />
 </p>
+
 
 <hr>
 
