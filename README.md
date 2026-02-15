@@ -1,88 +1,92 @@
-<h1 align="center">💻 Welcome To My Code Haven 💻</h1>
-<h3 align="center">Engineer | Full Stack Web Developer | Lifelong Learner</h3>
-
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=tanish-jain-225&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views Counter" /> 
-</p>
-
-<hr>
-
-## 👋 About Me
-
-Hello! I'm **Tanish**, a passionate **full-stack web developer** and engineering student who loves building functional and user-friendly web applications. Whether it's crafting responsive frontends or designing robust backend logic, I enjoy every step of the development process.
-
-I thrive in collaborative environments, enjoy debugging as much as building, and constantly seek out new technologies to learn and experiment with.
-
-<hr>
-
-## 🧰 Tech Stack
-
-<p align="center"> 
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="Bootstrap" width="40" height="40" />
-    <img src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png" alt="C" width="40" height="40" /> 
-    <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="40" height="40" /> 
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" width="40" height="40" /> 
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="HTML5" width="40" height="40" /> 
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="40" height="40" /> 
-    <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node.js" width="40" height="40" /> 
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="40" height="40" />
-    <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="React" width="40" height="40" />
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjcViF9RI0J1AVKQ0ci5-zOLoghj4hm4XEXw&s" alt="MongoDB" width="40" height="40" />
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE3cgAgoQ3fXWqK97d2h_iqkXPvTcT3u5uYg&s" alt="Express.js" width="40" height="40" />
-</p>
-
-
-<hr>
-
-## 🚀 Web Development
-
-As a developer, I specialize in:
-- Building responsive frontends with **HTML, CSS, JavaScript, React**
-- Creating robust backends using **Node.js, Express, and MongoDB**
-- Developing full-stack projects from scratch
-- Learning and implementing UI/UX best practices
-
-I'm passionate about turning ideas into live products and always working on refining performance, usability, and aesthetics.
-
-<hr>
-
-## 📊 GitHub Stats
+<h1 align="center">Tanish Jain</h1>
+<h3 align="center">Full Stack Developer • Engineer • Problem Solver</h3>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tanish-jain-225&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  Building scalable web applications and turning ideas into functional products.
 </p>
 
-<hr>
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=tanish-jain-225&theme=gruvbox&no-frame=false&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=tanish-jain-225&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
-<hr>
+---
 
-## ⚡ Fun Fact
+## About Me
 
-"I am an ambivert who thrives equally in a buzzing team meeting and in deep-focus coding. I value communication, listening, and shared problem-solving just as much as clean code."
+I am an engineering student and full-stack developer focused on building practical, scalable, and user-friendly applications. I enjoy working across the complete development lifecycle — from designing responsive interfaces to developing efficient backend systems and databases.
 
-<hr>
+I am driven by problem-solving, continuous improvement, and learning technologies by building real-world projects.
 
-## 📫 Let's Connect
+---
+
+## Tech Stack
 
 <p align="center">
-    <a href="https://instagram.com/tanish_jain_225" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="Instagram" height="40" width="40" />
-    </a>
-    <a href="https://www.linkedin.com/in/tanish-jain-tj02022005" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" width="40" />
-    </a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,express,mongodb,python" />
 </p>
 
-<hr>
+---
 
-## ✍️ Random Dev Quote
+## What I Do
+
+- Full-stack web application development  
+- Responsive frontend design using React  
+- Backend APIs with Node.js and Express  
+- Database design and integration with MongoDB  
+- Performance optimization and clean UI implementation  
+- Building projects from idea to deployment  
+
+---
+
+## Featured Focus Areas
+
+- MERN Stack Applications  
+- AI-assisted Web Applications  
+- Automation & Embedded Systems Projects  
+- Scalable Backend Design  
+
+---
+
+## GitHub Stats
 
 <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanish-jain-225&show_icons=true&theme=gruvbox&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanish-jain-225&theme=gruvbox" />
+</p>
+
+---
+
+## Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tanish-jain-225&theme=gruvbox&margin-w=15" />
+</p>
+
+---
+
+## Philosophy
+
+> Clean code, clear thinking, and continuous learning.
+> I believe strong software comes from understanding problems deeply before writing solutions.
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanish-jain-tj02022005">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://instagram.com/tanish_jain_225">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 </p>
