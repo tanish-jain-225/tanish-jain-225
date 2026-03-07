@@ -1,4 +1,4 @@
-<h1 align="center">Tanish Jain</h1>
+<h1 align="center">Tanish Sanghvi</h1>
 <h3 align="center">Full Stack Developer • Engineer • Problem Solver</h3>
 
 <p align="center">
