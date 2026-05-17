@@ -78,6 +78,10 @@ I am driven by problem-solving, continuous improvement and learning technologies
   <a href="https://www.linkedin.com/in/tanish-jain-tj02022005">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
+  
+  <a href="https://www.instagram.com/tanish_jain_225">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
 </p>
 
 ---
