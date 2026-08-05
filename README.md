@@ -1,93 +1,161 @@
-<h1 align="center">Tanish Sanghvi</h1>
-<h3 align="center">Full Stack Developer • Engineer • Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Tanish Sanghvi</h1>
+
+<h3 align="center">
+Full Stack Developer • AI Enthusiast • Automation Engineer
+</h3>
 
 <p align="center">
-  Building scalable web applications and turning ideas into functional products.
+Building scalable web applications, AI-powered solutions, and software that solves real-world problems.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanish-jain-225&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=tanish-jain-225&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am an engineering student and full-stack developer focused on building practical, scalable and user-friendly applications. I enjoy working across the complete development lifecycle — from designing responsive interfaces to developing efficient backend systems and databases.
+I'm **Tanish Sanghvi**, a **B.E. Automation & Robotics Engineering** student at **VESIT, Mumbai**, passionate about building modern software products that combine **Full Stack Development**, **Artificial Intelligence**, and **Automation**.
 
-I am driven by problem-solving, continuous improvement and learning technologies by building real-world projects.
+I enjoy transforming ideas into production-ready applications by working across the complete software development lifecycle—from designing intuitive user interfaces to developing scalable backend systems and deploying reliable cloud applications.
+
+- 🌱 Currently exploring **AI Engineering, System Design & Cloud Technologies**
+- 💻 Building **Full Stack** & **AI-powered** applications
+- 🚀 Interested in **Software Engineering**, **Backend Systems** & **Intelligent Automation**
+- 🎯 Passionate about solving real-world engineering problems
+- ⚡ Strong believer in writing clean, maintainable and scalable code
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,express,mongodb,python" />
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+### Database & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,vercel" />
+</p>
+
+### Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,jest" />
 </p>
 
 ---
 
-## 🚀 What I Do
+## 🚀 Featured Projects
 
-- Full-stack web application development  
-- Responsive frontend design using React  
-- Backend APIs with Node.js and Express  
-- Database design and integration with MongoDB  
-- Performance optimization and clean UI implementation  
-- Building projects from idea to deployment  
-
----
-
-## 🎯 Featured Focus Areas
-
-- MERN Stack Applications  
-- AI-assisted Web Applications  
-- Automation & Embedded Systems Projects  
-- Scalable Backend Design  
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **Edvanta** | React • Flask • MongoDB • Firebase • Gemini AI | AI-powered educational and career guidance platform with intelligent tutoring and roadmap generation. |
+| **Department Ledger Portal** | Next.js • Firebase • Firestore • Jest • Playwright | Production-grade academic record management system with authentication, testing and audit logging. |
+| **DineEase** | React • Node.js • Express • MongoDB | Full Stack restaurant ordering and menu management system with REST APIs and persistent cart functionality. |
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 What I Build
+
+- 🌐 Full Stack Web Applications
+- 🤖 AI Integrated Software Solutions
+- 🔗 REST APIs & Backend Services
+- 📊 Dashboard & Data Visualization Systems
+- ⚡ Scalable MERN Stack Applications
+- 🔒 Authentication & Secure Web Applications
+- ☁️ Cloud-Ready Deployments
+
+---
+
+## 🎯 Current Focus
+
+- Full Stack Engineering
+- Artificial Intelligence Integration
+- Backend Architecture
+- System Design
+- Performance Optimization
+- Automation & Robotics Software
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanish-jain-225&theme=gruvbox" />
+  <img src="https://streak-stats.demolab.com?user=tanish-jain-225&theme=github-dark&hide_border=true&border_radius=8" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Highlights
 
-- Developed and deployed multiple full-stack MERN applications
-- Designed REST APIs and database schemas for scalable applications
-- Built embedded systems projects using microcontroller interfacing
-- Implemented AI-assisted features in web applications
-- Maintained consistent contribution activity through project development
-
----
-
-## 🧠 Philosophy
-
-> Clean code, clear thinking and continuous learning.  
-> I believe strong software comes from understanding problems deeply before writing solutions.
+- 🥇 National Finalist — **Hack Celestial 2.0**
+- 💡 Built multiple production-ready Full Stack applications
+- 🤖 Integrated Generative AI into real-world software projects
+- 🔗 Developed scalable REST APIs and backend architectures
+- 🧪 Experience with automated testing using **Jest** and **Playwright**
+- 🚀 Passionate about building software with real-world impact
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tanish-jain-tj02022005">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  
-  <a href="https://www.instagram.com/tanish_jain_225">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-  </a>
+
+<a href="mailto:tanishjain020205@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tanish-jain-tj02022005">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/tanish-jain-225">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://tanish-portfolio-web.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/tanish_jain_225">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## ✨ Dev Quote
+## 💭 Developer Philosophy
+
+> *"Great software isn't just about writing code—it's about understanding problems deeply, designing elegant solutions, and continuously learning to build better systems."*
+
+---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Developer Quote"/>
+</p>
+
+---
+
+<p align="center">
+
+⭐ <b>If you like my work, consider starring my repositories!</b>
+
 </p>
