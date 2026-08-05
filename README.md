@@ -57,7 +57,7 @@ I enjoy transforming ideas into production-ready applications by working across 
 ### Developer Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,jest" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 ---
