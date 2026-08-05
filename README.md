@@ -1,63 +1,50 @@
-<h1 align="center">Hi 👋, I'm Tanish Sanghvi</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer • AI Enthusiast • Automation Engineer
-</h3>
+# Hi 👋, I'm Tanish Sanghvi
 
-<p align="center">
-Building scalable web applications, AI-powered solutions, and software that solves real-world problems.
-</p>
+### **Full Stack Developer • AI Enthusiast • Automation Engineer**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanish-jain-225&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-</p>
+Building scalable web applications, AI-powered solutions, and software that solves real-world engineering problems.
+
+[![Profile Views](https://komarev.com/ghpvc/?username=tanish-jain-225&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/tanish-jain-225)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Tanish Sanghvi**, a **B.E. Automation & Robotics Engineering** student at **VESIT, Mumbai**, passionate about building modern software products that combine **Full Stack Development**, **Artificial Intelligence**, and **Automation**.
+I'm **Tanish Sanghvi**, a **B.E. Automation & Robotics Engineering** student at **VESIT, Mumbai**. I am passionate about crafting production-ready software by combining **Full Stack Development**, **Artificial Intelligence**, and **System Automation**.
 
-I enjoy transforming ideas into production-ready applications by working across the complete software development lifecycle—from designing intuitive user interfaces to developing scalable backend systems and deploying reliable cloud applications.
+I work across the entire software development lifecycle—from designing intuitive user interfaces to building robust backend systems, writing automated tests, and deploying cloud-native applications.
 
-- 🌱 Currently exploring **AI Engineering, System Design & Cloud Technologies**
-- 💻 Building **Full Stack** & **AI-powered** applications
-- 🚀 Interested in **Software Engineering**, **Backend Systems** & **Intelligent Automation**
-- 🎯 Passionate about solving real-world engineering problems
-- ⚡ Strong believer in writing clean, maintainable and scalable code
+* 🎓 **Education:** B.E. in Automation & Robotics at VESIT, Mumbai
+* 🌱 **Currently Learning:** AI Engineering, System Design & Cloud Architecture
+* 🚀 **Core Focus:** Full Stack Web Development, REST APIs, & Generative AI Integration
+* ⚡ **Philosophy:** Writing clean, testable, and scalable code that drives real-world impact
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-
+**Languages**
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js" alt="Languages" />
 </p>
 
-### Frontend
-
+**Frontend Development**
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend" />
 </p>
 
-### Backend
-
+**Backend & Databases**
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,firebase" alt="Backend and Databases" />
 </p>
 
-### Database & Cloud
-
+**DevOps, Testing & Tools**
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,vercel" />
-</p>
-
-### Developer Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode" alt="Tools" />
 </p>
 
 ---
@@ -65,97 +52,70 @@ I enjoy transforming ideas into production-ready applications by working across 
 ## 🚀 Featured Projects
 
 | Project | Tech Stack | Description |
-|---------|------------|-------------|
-| **Edvanta** | React • Flask • MongoDB • Firebase • Gemini AI | AI-powered educational and career guidance platform with intelligent tutoring and roadmap generation. |
-| **Department Ledger Portal** | Next.js • Firebase • Firestore • Jest • Playwright | Production-grade academic record management system with authentication, testing and audit logging. |
-| **DineEase** | React • Node.js • Express • MongoDB | Full Stack restaurant ordering and menu management system with REST APIs and persistent cart functionality. |
+| :--- | :--- | :--- |
+| 🎓 **Edvanta** | `React` • `Flask` • `MongoDB` • `Firebase` • `Gemini AI` | AI-powered educational platform providing personalized guidance, smart tutoring, and automated career roadmaps. |
+| 📑 **Department Ledger Portal** | `Next.js` • `Firebase` • `Firestore` • `Jest` • `Playwright` | Production-ready academic record system equipped with role-based auth, dynamic audit logs, and E2E test coverage. |
+| 🍽️ **DineEase** | `React` • `Node.js` • `Express` • `MongoDB` | Full-stack restaurant management engine featuring dynamic menu handling, REST APIs, and persistent cart management. |
 
 ---
 
-## 🚀 What I Build
+## ⚡ What I Build
 
-- 🌐 Full Stack Web Applications
-- 🤖 AI Integrated Software Solutions
-- 🔗 REST APIs & Backend Services
-- 📊 Dashboard & Data Visualization Systems
-- ⚡ Scalable MERN Stack Applications
-- 🔒 Authentication & Secure Web Applications
-- ☁️ Cloud-Ready Deployments
+* 🌐 **Full Stack Web Applications:** Dynamic, responsive web applications using React, Next.js, and Node.js.
+* 🤖 **AI & LLM Integration:** Embedding Generative AI models (e.g., Gemini AI) into web workflows.
+* 🔗 **Backend Systems & APIs:** Scalable RESTful microservices, custom endpoints, and secure database schemas.
+* 🧪 **Testing & Quality Assurance:** Robust automated testing pipelines using Jest and Playwright.
+* ☁️ **Cloud Deployments:** CI/CD setups and cloud hosting via Vercel and Firebase Services.
 
 ---
 
-## 🎯 Current Focus
+## 🏆 Achievements & Highlights
 
-- Full Stack Engineering
-- Artificial Intelligence Integration
-- Backend Architecture
-- System Design
-- Performance Optimization
-- Automation & Robotics Software
+* 🥇 **National Finalist** — *Hack Celestial 2.0*
+* 🚀 Built and deployed multiple end-to-end full stack web platforms
+* 🧠 Successfully integrated Generative AI into practical guidance tools
+* 🔒 Implemented secure authentication, dynamic logging, and full test suites for enterprise-style apps
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tanish-jain-225&theme=github-dark&hide_border=true&border_radius=8" alt="GitHub Streak"/>
-</p>
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=tanish-jain-225&theme=github-dark&hide_border=true&border_radius=8" alt="GitHub Streak" />
 
-## 🏆 Highlights
-
-- 🥇 National Finalist — **Hack Celestial 2.0**
-- 💡 Built multiple production-ready Full Stack applications
-- 🤖 Integrated Generative AI into real-world software projects
-- 🔗 Developed scalable REST APIs and backend architectures
-- 🧪 Experience with automated testing using **Jest** and **Playwright**
-- 🚀 Passionate about building software with real-world impact
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:tanishjain020205@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
 <a href="https://www.linkedin.com/in/tanish-jain-tj02022005">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="https://github.com/tanish-jain-225">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
 <a href="https://tanish-portfolio-web.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
-
 <a href="https://www.instagram.com/tanish_jain_225">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-## 💭 Developer Philosophy
+<div align="center">
 
 > *"Great software isn't just about writing code—it's about understanding problems deeply, designing elegant solutions, and continuously learning to build better systems."*
 
----
+⭐ **If you find my projects useful, feel free to star the repositories!**
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Developer Quote"/>
-</p>
-
----
-
-<p align="center">
-
-⭐ <b>If you like my work, consider starring my repositories!</b>
-
-</p>
+</div>
